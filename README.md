@@ -6,6 +6,7 @@
 
 ## 직무교육 상황
 - 스프링 MVC 2편 : 진행 중
+- 필기하는 Notion : https://sable-sherbet-4f2.notion.site/93b14deff9564d788882dc896eb15f15
 <br>
 
 ## 학습 내용
